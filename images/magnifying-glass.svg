@@ -1,5 +1,5 @@
         <svg  width="240" height="240" fill="black" xmlns="http://www.w3.org/2000/svg">
-            <symbol id="magnifying-glass"  viewbox="0 0 240 240" max-width="400" max-height="400">
+            <symbol id="magnifying-glass"  viewbox="0 0 240 240" max-width="400">
                 <circle cx="100" cy="100" r="80" stroke-width="20" stroke="black" fill="white"/>    
                 <polyline points="200 180 170 155" stroke="black" stroke-width="20" stroke-linecap="round"/>
             </symbol>
